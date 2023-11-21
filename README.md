@@ -1,7 +1,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms; align: center" src="https://imgs.search.brave.com/oHhf2-zWSdT1TJR0oVVEuIoqpceg4hBRufNcrfQeKkU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC83LzEvZC8x/NDk1Mi5qcGc" width="860" height="484">
 
 # 💫 About Me:
-A passionate developer from Pune, Maharashtra.<br><br>🌱 I’m currently learning B.Tech. Program in Computer Science<br><br>📫 How to reach me prushikeh@gmail.com<br><br>⚡ Fun fact Imperfectly real and perfectly rare!
+A passionate developer from Pune, Maharashtra.<br><br>🌱 B.Tech Student in Computer Science @PCCoE<br><br>📫 Reach me using prushikeh@gmail.com<br><br>⚡ Fun fact Imperfectly real and perfectly rare!
 
 
 ## 🌐 Socials:
