@@ -23,6 +23,6 @@ A passionate developer from Pune, Maharashtra.<br><br>🌱 B.Tech Student in Com
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/patil-piyush/patil-piyush/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/patil-rushikesh/patil-rushikesh/output/snake.svg" alt="Snake animation" />
 
 ###
