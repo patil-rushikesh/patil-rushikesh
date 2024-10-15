@@ -20,3 +20,9 @@ A passionate developer from Pune, Maharashtra.<br><br>🌱 B.Tech Student in Com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=patil-rushikesh&icon=6&color=0)](https://visitcount.itsvg.in)
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/patil-piyush/patil-piyush/output/snake.svg" alt="Snake animation" />
+
+###
